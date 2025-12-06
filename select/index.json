@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "祈り花",
+  "base_artist": "平井 大",
+  "createdAt": "2025-12-06T22:22:14.130408Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "祈り花 - INORIBANA",
+      "artist": "HIRAIDAI",
+      "has_synced": true,
+      "path": "select/01_祈り花_-_INORIBANA_HIRAIDAI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "祈り花 2020",
+      "artist": "HIRAIDAI",
+      "has_synced": true,
+      "path": "select/02_祈り花_2020_HIRAIDAI.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "祈り花",
+      "artist": "HIRAIDAI",
+      "has_synced": true,
+      "path": "select/03_祈り花_HIRAIDAI.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "祈り花 2020 - Inoribana 2020",
+      "artist": "HIRAIDAI",
+      "has_synced": true,
+      "path": "select/04_祈り花_2020_-_Inoribana_2020_HIRAIDAI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "祈り花",
+      "artist": "平井大",
+      "has_synced": false,
+      "path": "select/pl_01_祈り花_平井大.txt"
+    }
+  ]
+}
